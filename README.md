@@ -12,7 +12,7 @@ To build it, change the current working directory to the location where you want
 
 ```
 git clone https://github.com/karamhawili/artist-search-app.git
-cd insert-directory-name
+cd artist-search-app
 npm install
 npm start
 ```

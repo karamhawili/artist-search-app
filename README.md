@@ -4,10 +4,6 @@
 </h1>
 <h3 align="center">A simple web app that uses the Spotify API to let users search for artists and their albums. It's built using React, styled-components, and Spotify API.</h3>
 <br>
-<br>
-
-<br>
-<br>
 
 ## Build Steps
 
@@ -22,3 +18,10 @@ npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser. (**Important**: Make sure the app is running on port 3000)
+
+## Snapshots
+![image](https://user-images.githubusercontent.com/67488592/197765005-f6b5e33b-52a3-4e39-b883-a4fc1bce5ca8.png)
+![image](https://user-images.githubusercontent.com/67488592/197765076-d0d3291e-6d6e-4650-baa7-0f004386224c.png)
+![image](https://user-images.githubusercontent.com/67488592/197765156-7b2215ea-754c-4425-9c45-67bbefd48ed2.png)
+![image](https://user-images.githubusercontent.com/67488592/197765341-a3568758-888a-4995-9181-86a6e6baf289.png)
+![image](https://user-images.githubusercontent.com/67488592/197765768-4630ce0e-d1a5-4858-83f4-b5234684113d.png)

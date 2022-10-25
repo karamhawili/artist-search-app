@@ -24,4 +24,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser. 
 ![image](https://user-images.githubusercontent.com/67488592/197765076-d0d3291e-6d6e-4650-baa7-0f004386224c.png)
 ![image](https://user-images.githubusercontent.com/67488592/197765156-7b2215ea-754c-4425-9c45-67bbefd48ed2.png)
 ![image](https://user-images.githubusercontent.com/67488592/197765341-a3568758-888a-4995-9181-86a6e6baf289.png)
-![image](https://user-images.githubusercontent.com/67488592/197765768-4630ce0e-d1a5-4858-83f4-b5234684113d.png)
+![image](https://user-images.githubusercontent.com/67488592/197766211-eeb43faa-b109-4425-b90d-04cc5b64b662.png)

@@ -9,7 +9,7 @@ const SEARCH_QUERY = 'USER_SEARCH_QUERY';
 
 const ArtistSearch = () => {
   const [query, setQuery] = useState(
-    sessionStorage.getItem(SEARCH_QUERY) ?? null
+    sessionStorage.getItem(SEARCH_QUERY) ?? ''
   );
   const [searchResults, setSearchResults] = useState(null);
 
@@ -31,7 +31,10 @@ const ArtistSearch = () => {
   const type = 'artist';
 
   useEffect(() => {
-    if (query === null) return;
+    if (query === ' ') {
+      setQuery('');
+      return;
+    }
 
     if (query === '') {
       setSearchResults(null);

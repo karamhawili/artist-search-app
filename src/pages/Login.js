@@ -77,6 +77,10 @@ const BtnIcon = styled(BsSpotify)`
   @media only screen and (max-width: 600px) {
     display: none;
   }
+
+  @media only screen and (max-width: 1050px) {
+    display: none;
+  }
 `;
 
 const Button = styled.button`
